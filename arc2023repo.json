@@ -1,0 +1,13 @@
+{
+	"name": "ARM Rally Championship 2023 Repo",
+	"version": "23.0913",
+	"packages": {
+		"arm_arc2023_cars": {
+			"description": "Pack containing ARC 2023 cars",
+			"version": 23.0913,
+			"checksum": "c9969c1c166342688c905a807c2e73c2953d7f1a1870307dba259bc67a7f81fe",
+			"url": "https://vas0sky.github.io/arm-arc2023/arm_arccars.zip",
+     			"file": "arm_arccars.zip"
+		}
+	}
+}
